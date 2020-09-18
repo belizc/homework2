@@ -39,11 +39,12 @@ div {
     text-align: left;
 }
 #yellow {
-    background-color: #ffff00  ;
+    background-color: #ffff00;
     color: #000000;
     text-align: right;
 }
 #yellow h2 {
+    color: #000000;
     text-shadow: #c7e2c7;
 }
 #green {
