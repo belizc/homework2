@@ -44,7 +44,8 @@ div {
     text-align: right;
 }
 #yellow h2 {
-    text-shadow: #c7e2c7;
+    text-shadow: 5px 5px 2px #c7e2c7;
+    color: #000000
 }
 #green {
     background-color: #008000;
@@ -52,6 +53,5 @@ div {
 }
 footer p {
     text-align: right;
-    padding-bottom: 10px;
-    padding-right: 10px;
+    padding: 0px 10px 10px 0px;
 }
