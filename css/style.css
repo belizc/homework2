@@ -35,7 +35,7 @@ div {
     text-align: right;
 }
 #blue {
-    background-color: #000fff;
+    background-color: #0000ff;
     text-align: left;
 }
 #yellow {
@@ -44,7 +44,6 @@ div {
     text-align: right;
 }
 #yellow h2 {
-    color: #000000;
     text-shadow: #c7e2c7;
 }
 #green {
