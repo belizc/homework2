@@ -40,11 +40,10 @@ div {
 }
 #yellow {
     background-color: #ffff00  ;
-    text-align: right;
     color: #000000;
+    text-align: right;
 }
 #yellow h2 {
-    color: #000000;
     text-shadow: #c7e2c7;
 }
 #green {
