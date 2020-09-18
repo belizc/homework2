@@ -11,7 +11,6 @@ h1 {
 h2 {
     font-size: 30px;
     text-shadow: 5px 5px 2px #808080;
-    text-align: left;
 }
 
 p {
@@ -28,7 +27,9 @@ div {
     min-height: 150px;
     padding: 25px;
 }
-
+#intro {
+    text-align: left;
+}
 #red {
     background-color: #ff0000;
     text-align: right;
@@ -44,8 +45,6 @@ div {
 .yellow h2 {
     color: #000000;
     text-shadow: #c7e2c7;
-    text-align: left;
-
 }
 #green {
     background-color: #008000;
